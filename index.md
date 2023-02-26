@@ -1,5 +1,7 @@
 ## Lab Report 4 
 
+For this lab report, I tried my best to complete a series of tasks in as short of time as possible, making use of command history. The steps start on step 4, because the first 3 steps were setup and thus not necessary to include on the lab report. These steps are reliant on having a command history, and so in order to replicate these steps, you will have to run through the tasks by typing in the commands manually first.
+
 # Step 4: Log in to ieng6
 
 I pressed `<up>` to access the command `ssh ieng6wi23asl@ieng6.ucsd.edu` from my history. Luckily, I configured the key to log in from my laptop without a password so I do not have to enter my password.

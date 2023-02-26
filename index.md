@@ -37,3 +37,8 @@ I pressed `<up>` 3 times to access the compile command `javac -cp .:lib/hamcrest
 # Step 9: Commit and push the resulting change to your github account
 
 I pressed `<up>` 12 times to use `git add ListExamples.java`, then I pressed `<up>` 12 times to access and run the command `git commit -m "Fixed Infinite Loop"`, and I manually typed the command `git push`, pushing the changes to my GitHub account on the internet.
+
+![image](https://user-images.githubusercontent.com/122569112/221385825-947dd3fb-8c0d-41d8-951d-79042fa7ef52.png)
+
+The changes were then reflected on the internet version of the repository as well.
+
